@@ -17,11 +17,15 @@ php pdo, jquery, bootstrap, mysql
 
 ## features of the app
 
-user management module, authentication and permission module, application review module, mini blog, search application module, 
+user management module, 
+- authentication and permission module, 
+- application review module, 
+- mini blog, 
+- search application module, 
 
 visit /login to get authenticated
 
 admin details
-username: admin@admin.com
-password: 123456789
-contact my email adddress for any issue or the database file.
+- username: admin@admin.com
+ - password: 123456789
+ - contact my email adddress for any issue or the database file.
