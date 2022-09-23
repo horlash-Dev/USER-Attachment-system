@@ -1,0 +1,163 @@
+[09-Feb-2021 16:59:14 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 16:59:35 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 16:59:35 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:00:03 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:00:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:03:01 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:03:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:03:07 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:03:07 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:05:43 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:05:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln', 'Lincoln@mail.co...', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:06:11 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:06:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:11:15 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:11:15 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'Lincoln jake', 'cube6029@gmail....', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:12:18 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:12:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'session_start()...', 'qamvid123@gmail...', NULL)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(26): controller->register('Lincoln', 'session_start()...', 'qamvid123@gmail...', NULL)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:15:20 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:15:20 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:15:23 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:15:23 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:16:26 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:16:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:17:55 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:17:55 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:18:02 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:18:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:18:08 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:18:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:20:39 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:20:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:20:44 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:20:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_password' cannot be null in /home/computertutor/public_html/nysc/php/includes/main.php:9
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/includes/main.php(9): PDOStatement->execute(Array)
+#1 /home/computertutor/public_html/nysc/php/includes/controller.php(11): main->intInsert('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#2 /home/computertutor/public_html/nysc/php/user-validity.php(27): controller->register('Lincoln', 'Lincoln', 'brad@mail.com', NULL, 2)
+#3 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/main.php on line 9
+[09-Feb-2021 17:21:42 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:22:40 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:25:24 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[09-Feb-2021 17:57:28 Africa/Lagos] PHP Warning:  password_hash() expects parameter 2 to be integer, string given in /home/computertutor/public_html/nysc/php/user-validity.php on line 15
+[10-Feb-2021 12:20:48 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/computertutor/public_html/nysc/php/user-validity.php on line 64
+[10-Feb-2021 12:26:44 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/computertutor/public_html/nysc/php/user-validity.php on line 64
+[10-Feb-2021 12:34:58 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/computertutor/public_html/nysc/php/user-validity.php on line 64
+[10-Feb-2021 12:44:46 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/computertutor/public_html/nysc/php/user-validity.php on line 198
+[10-Feb-2021 13:16:26 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/computertutor/public_html/nysc/php/user-validity.php on line 64
+[10-Feb-2021 16:59:13 Africa/Lagos] PHP Warning:  Attempt to assign property 'SMTPDebug' of non-object in /home/computertutor/public_html/nysc/php/user-validity.php on line 190
+[10-Feb-2021 16:59:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on string in /home/computertutor/public_html/nysc/php/user-validity.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/computertutor/public_html/nysc/php/user-validity.php on line 191
+[10-Feb-2021 16:59:37 Africa/Lagos] PHP Warning:  Attempt to assign property 'SMTPDebug' of non-object in /home/computertutor/public_html/nysc/php/user-validity.php on line 190
+[10-Feb-2021 16:59:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function isSMTP() on string in /home/computertutor/public_html/nysc/php/user-validity.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/computertutor/public_html/nysc/php/user-validity.php on line 191
+[19-Feb-2021 15:25:00 Africa/Lagos] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/computertutor/public_html/nysc/php/includes/main.php on line 100
+[19-Feb-2021 15:28:29 Africa/Lagos] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/computertutor/public_html/nysc/php/includes/main.php on line 100
+[19-Feb-2021 15:43:22 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:43:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:44:31 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:46:59 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:47:51 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:49:20 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 15:53:46 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/computertutor/public_html/nysc/php/user-validity.php on line 358
+[19-Feb-2021 17:29:50 Africa/Lagos] PHP Warning:  shuffle() expects parameter 1 to be array, string given in /home/computertutor/public_html/nysc/php/blog.php on line 122
+[19-Feb-2021 17:29:50 Africa/Lagos] PHP Warning:  shuffle() expects parameter 1 to be array, string given in /home/computertutor/public_html/nysc/php/blog.php on line 122
+[19-Feb-2021 17:29:54 Africa/Lagos] PHP Warning:  shuffle() expects parameter 1 to be array, string given in /home/computertutor/public_html/nysc/php/blog.php on line 122
+[19-Feb-2021 17:29:54 Africa/Lagos] PHP Warning:  shuffle() expects parameter 1 to be array, string given in /home/computertutor/public_html/nysc/php/blog.php on line 122
+[19-Feb-2021 17:30:39 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/computertutor/public_html/nysc/php/blog.php on line 120
+[05-Mar-2021 14:27:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/computertutor/public_html/nysc/php/user-validity.php:92) in /home/computertutor/public_html/nysc/php/user-validity.php on line 94

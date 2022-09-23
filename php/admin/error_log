@@ -1,0 +1,42 @@
+[19-Feb-2021 14:39:19 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/computertutor/public_html/nysc/php/admin/posted.php on line 198
+[19-Feb-2021 14:39:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:40:04 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:40:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:40:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:42:05 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:42:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 14:43:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function admin_blog_posting() in /home/computertutor/public_html/nysc/php/includes/session.in.php:30
+Stack trace:
+#0 /home/computertutor/public_html/nysc/php/admin/dashboard.php(13): session->adminUser()
+#1 {main}
+  thrown in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 30
+[19-Feb-2021 15:01:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST) in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 42
+[19-Feb-2021 15:01:18 Africa/Lagos] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST) in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 42
+[19-Feb-2021 15:01:37 Africa/Lagos] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST) in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 42
+[19-Feb-2021 15:01:45 Africa/Lagos] PHP Parse error:  syntax error, unexpected '{', expecting function (T_FUNCTION) or const (T_CONST) in /home/computertutor/public_html/nysc/php/includes/session.in.php on line 42
+[23-Feb-2021 13:07:30 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/computertutor/public_html/nysc/php/admin/posts.php on line 214
+[05-Mar-2021 13:10:59 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/computertutor/public_html/nysc/php/admin/posts.php on line 214
